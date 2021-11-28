@@ -1,4 +1,16 @@
 # AI-Virtual-Mouse
+
+## Abstract
+
+Even today, many people still find interacting with computers and hardware to be an unpleasant 
+experience, despite the development of input devices over decades. Computers and hardware should be tailored to our 
+natural modes of communication: Body language and speech. Intelligent machines that can work alongside computers 
+are now being developed, allowing for friendlier Human-Computer Interaction (HCI). Our proposed project, on the 
+other hand, intends a hand gesture-based system that allows users to control desktop mouse movements. To detect hand 
+gesture movements, our system makes use of a desktop webcam. The goal is to control mouse cursor functions with a 
+simple camera rather than a traditional or standard mouse device. Using only a camera, the Virtual Mouse provides an 
+infrastructure between the user and the machine. It enables the user to interact with a machine without the need for any 
+mechanical or physical devices, and even allows to control mouse functions.
  
   ## Problem Definition
      
