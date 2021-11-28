@@ -13,30 +13,31 @@ To design virtual mouse which detects hand gestures patterns instead of physical
   ## IMPLIMENTATION
     
     The project is divided into 2 sub-programs which is stored in 2 separate files:
+
 1.Hand Tracking Module.
-  The framework used is Mediapipe developed by google.
+The framework used is Mediapipe developed by google.
 It uses two main models ,
-Palm detection 
-hand landmarks 
+- Palm detection 
+- Hand landmarks 
 
 2.AI Virtual Mouse Module.
 
 After the palm detection over the whole image our subsequent hand landmark model performs precise key point localization of 21 3D hand-knuckle coordinates inside the detected hand regions via regression, that is direct coordinate prediction.
 The model learns a consistent internal hand pose representation and is robust even to partially visible hands and self-occlusions.
  
-• Find hand Landmarks.
-• Check which fingers are up.
-• Only Index finger: Moving Mode.
-• Convert Coordinates.
-• Smoothen Values.
-• Move Mouse.
-• Both Index and middle fingers are up : Left click Mode.
-• Find distance between fingers.
-• Click mouse if distance short.
-• Both Index and thumb up: Scroll
-• All five fingers are up : right click mode
-• Frame rate.
-• Display.
+- Find hand Landmarks.
+- Check which fingers are up.
+- Only Index finger: Moving Mode.
+- Convert Coordinates.
+- Smoothen Values.
+- Move Mouse.
+- Both Index and middle fingers are up : Left click Mode.
+- Find distance between fingers.
+- Click mouse if distance short.
+- Both Index and thumb up: Scroll
+- All five fingers are up : right click mode
+- Frame rate.
+- Display.
 
 ## Guide
 
