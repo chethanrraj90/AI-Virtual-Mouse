@@ -12,7 +12,7 @@ To design virtual mouse which detects hand gestures patterns instead of physical
 
   ## IMPLIMENTATION
     
-    The project is divided into 2 sub-programs which is stored in 2 separate files:
+The project is divided into 2 sub-programs which is stored in 2 separate files:
 
 1.Hand Tracking Module.
 The framework used is Mediapipe developed by google.
