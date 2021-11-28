@@ -6,9 +6,9 @@ To design virtual mouse which detects hand gestures patterns instead of physical
   
    ## Objectives
 
-● The goal is to manage computers and other devices with    gestures rather than pointing and clicking a mouse or touching a display directly.
-● The system will allow the user to navigate the computer cursor using their hand gestures and left click and scrolling will be performed using different hand gestures.
-● To reduce the cost of hardware.
+- The goal is to manage computers and other devices with    gestures rather than pointing and clicking a mouse or touching a display directly.
+- The system will allow the user to navigate the computer cursor using their hand gestures and left click and scrolling will be performed using different hand gestures.
+- To reduce the cost of hardware.
 
   ## IMPLIMENTATION
     
