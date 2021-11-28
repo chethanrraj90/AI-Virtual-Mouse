@@ -10,7 +10,8 @@ To design virtual mouse which detects hand gestures patterns instead of physical
 - The system will allow the user to navigate the computer cursor using their hand gestures and left click and scrolling will be performed using different hand gestures.
 - To reduce the cost of hardware.
 
-  ## IMPLIMENTATION
+
+## Implimentation
     
 The project is divided into 2 sub-programs which is stored in 2 separate files:
 
